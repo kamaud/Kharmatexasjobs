@@ -3,7 +3,7 @@
    <head>
      <style>
          nav{
-             background: lightgreen;
+             background: #fff;
              width: 20em;
          }
 
@@ -19,6 +19,10 @@
              background: #4c6d48;
              text-align:center;
          }
+section{
+font-weight:600px;
+margin:20px;
+}
      </style>
      <meta charset="UTF-8">
        <title># Kharmatexasjobs</title>
@@ -26,7 +30,7 @@
        <img src="https://2.bp.blogspot.com/-DwbHkYGY3vA/Wyqw2PoW2nI/AAAAAAAAAAo/dSkMrgLPauMQ7_wYBDglQKSr2MgbZRuHgCEwYBhgL/s1600/2018-05-11-13-19-28-588.jpg" alt="Muriki Dennis Kamau">
        <body>
        <header><h1>Working With Cryptocurrencies</h1></header>
-An interactive platform for online work and  technology
+<h2>An interactive platform for online work and  technology</h2>
 <article>
 
 
@@ -80,6 +84,12 @@ What Is A Cryptocurrency?
 
 For more information or guidance,leave your comments or questions below or Watsapp us on
 +1 267-652-3276
+<section id="comments">
+  <header>
+    <h1>Comment</h1>
+    <div class="username">User</div>
+    </div>
+    </section>
 
 </article>
 </body>
