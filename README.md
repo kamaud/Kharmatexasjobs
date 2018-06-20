@@ -43,6 +43,7 @@ What Is A Cryptocurrency?
 <p>The origin of Cryptography is dated back to the Second world war developed to enhance and secure communication among war veterans. With time,Cryptography techniques has evolved with the improvement and advancement in technology aided by computer and data scientists to provide safe and secure communication paths,storage of data or information and protecting money online.</p>
 
 <h3>1. Bitcoin</h3>
+<img src=https://2.bp.blogspot.com/-y04TF0Rmr1I/WyqxmScxf6I/AAAAAAAAAA0/2dxVNvtwB2gpVE6oMgARxGtKvCsXrONlwCEwYBhgL/s1600/Z%25281%2529.jpg" alt="BTC">
 
 <p>It is common knowledge that bitcoin,the most expensive of all the cryptocurrencies was created in the year 2009 by a developer,Satoshi Nakamoto. Satoshi was motivated by the fact that he saw certain challenges with the conventional currencies and thus the need to address the problems by creating a new payment system in the name of bitcoins.</p>
 
