@@ -23,6 +23,7 @@
      <meta charset="UTF-8">
        <title># Kharmatexasjobs</title>
        </head>
+       <img src="https://2.bp.blogspot.com/-DwbHkYGY3vA/Wyqw2PoW2nI/AAAAAAAAAAo/dSkMrgLPauMQ7_wYBDglQKSr2MgbZRuHgCEwYBhgL/s1600/2018-05-11-13-19-28-588.jpg" alt="Muriki Dennis Kamau">
        <body>
        <header><h1>Working With Cryptocurrencies</h1></header>
 An interactive platform for online work and  technology
