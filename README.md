@@ -1,8 +1,34 @@
-# Kharmatexasjobs
-An interactive platform for online work and  technology
-Am into html,css and js. 
+<DOCTYPE html>
+  <html lang="en">
+   <head>
+     <style>
+         nav{
+             background: lightgreen;
+             width: 20em;
+         }
 
-<h1>Working With Cryptocurrencies</h1>
+         img{
+             width: 400px;
+         }
+
+        article{
+            margin-left: 40px;
+         }
+
+         h1{
+             background: #4c6d48;
+             text-align:center;
+         }
+     </style>
+     <meta charset="UTF-8">
+       <title># Kharmatexasjobs</title>
+       </head>
+       <body>
+       <header><h1>Working With Cryptocurrencies</h1></header>
+An interactive platform for online work and  technology
+<article>
+
+
 
 
 Working With Cryptocurrencies(Virtual Currencies)
@@ -52,3 +78,6 @@ Ethereum cryptocurrency was created through ethereum blockchain technology and a
 For more information or guidance,leave your comments or questions below or Watsapp us on
 +1 267-652-3276
 
+</article>
+</body>
+</html>
