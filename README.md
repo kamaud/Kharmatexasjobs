@@ -84,12 +84,12 @@ What Is A Cryptocurrency?
 
 For more information or guidance,leave your comments or questions below or Watsapp us on
 +1 267-652-3276
-<section id="comments">
-  <header>
-    <h1>Comment</h1>
-    <div class="username">User</div>
-    </div>
-    </section>
+
+
+    
+    
+   
+
 
 </article>
 </body>
