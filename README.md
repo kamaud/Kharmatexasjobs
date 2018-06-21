@@ -18,7 +18,13 @@
          h1{
              background: #4c6d48;
              text-align:center;
-         }
+             }
+             body{
+             background-color:#fff;
+             -webkit-animation:random 5s infinite;
+             animation: random 5s infinite;
+             }
+
 section{
 font-weight:600px;
 margin:20px;
