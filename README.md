@@ -92,6 +92,19 @@ For more information or guidance,leave your comments or questions below or Watsa
 
 
 </article>
+<aside>
+  <h1>Our Interactive Classrooms and Business Forum</h1>
+  <p>Here we will offer participants with digital skills that will help them work using major technologies to earn a passive income</p>
+  <h2>Areas Of Interest</h2>
+  <ol>
+    <li>Blockchain Technology</li>
+    <li>Forex Trade</li>
+    <li>The Art Of Internet Marketing</li>
+    <li>E-commerce And Affiliate Marketing</li>
+    <li>Web-design And Blogging</li>
+    <li>Virtual Assistants</li>
+    </ol>
+  </aside>
 </body>
 
 </html>
