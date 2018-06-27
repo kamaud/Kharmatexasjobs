@@ -139,24 +139,42 @@ body {
        </head>
        <img src="https://2.bp.blogspot.com/-DwbHkYGY3vA/Wyqw2PoW2nI/AAAAAAAAAAo/dSkMrgLPauMQ7_wYBDglQKSr2MgbZRuHgCEwYBhgL/s1600/2018-05-11-13-19-28-588.jpg" alt="Muriki Dennis Kamau">
        <body>
-       <header><h1>Working With Cryptocurrencies</h1></header>
-<h2>An interactive platform for online work and  technology</h2>
-<article>
+ <div class="header">     
+      <header><h1>Kharmatexasjobs</h1></header>
+<p>An interactive platform for online work and  technology</p>
+</div>
+<div class="topnav">
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#" style="float.right">Link</a>
+  </div>
+  <div class="row">
+  <div class="leftcolumn">
+   <div class="card">
+     <h2>Working With Cryptocurrencies(Virtual Currencies)</h2>
+     
 
 
 
 
-<h2>Working With Cryptocurrencies(Virtual Currencies)</h2>
 
-What Is A Cryptocurrency?
+
+
+<h3>What Is A Cryptocurrency?</h3>
 
 <p>A cryptocurrency is a form of digital currency created and held electronically and is securely designed. The origin of most cryptocurrencies is anonymous but it is believed their creation was influenced by the changing technological advancements and thus their creation to cater for specific markets and needs.</p>
 
 <p>Cryptocurrencies are mostly associated with the digital world that uses Cryptography,a technique of secret writing and coding to track down sales and digital transfers.</p>
 
 <p>The origin of Cryptography is dated back to the Second world war developed to enhance and secure communication among war veterans. With time,Cryptography techniques has evolved with the improvement and advancement in technology aided by computer and data scientists to provide safe and secure communication paths,storage of data or information and protecting money online.</p>
-
-<h3>1. Bitcoin</h3>
+</div>
+<div class="card">
+ 
+<h4>1. Bitcoin</h4>
+<div class="image"
+style="height:200px;">Image</div>
 <img src="https://4.bp.blogspot.com/-AIO_OVqP6w4/Wyu2-xjRPCI/AAAAAAAAABA/lp0nHB5R3UgFx_bQfoQLR5oF38eSqWe4gCLcBGAs/s1600/9k.jpg" alt="BTC">
 
 <p>It is common knowledge that bitcoin,the most expensive of all the cryptocurrencies was created in the year 2009 by a developer,Satoshi Nakamoto. Satoshi was motivated by the fact that he saw certain challenges with the conventional currencies and thus the need to address the problems by creating a new payment system in the name of bitcoins.</p>
@@ -169,15 +187,15 @@ What Is A Cryptocurrency?
 
          <h4>November 2017 Bitcoin Prices</h4>
                          
-                                   
+   </div>                                
 
 
 
 
 
 
-
-<h5>2. Ethereum(Ether)</h5>
+<div class="card">
+<h4>2. Ethereum(Ether)</h4>
 
 <p>With bitcoin as the most expensive and popular cryptocurrency trading at over $10,000(US Dollars),Ethereum comes up in tow as the second most expensive and popular cryptocurrency.</p>
 
@@ -187,22 +205,23 @@ What Is A Cryptocurrency?
 
 <p>Ethereum cryptocurrency was created through ethereum blockchain technology and at the end of last month,November 2017,its market value had reached slightly over $460(US Dollars) with its value expected to grow rapidly in the coming months.</p>
 
-   <h6>Bitcoin and Ethereum Prices November 2017</h6>
+   <h5>Bitcoin and Ethereum Prices November 2017</h5>
 
-                      
+                    
 
 
 For more information or guidance,leave your comments or questions below or Watsapp us on
 +1 267-652-3276
 
+</div>
 
     
     
    
 
 
-</article>
-<aside>
+
+<div class="card">
   <h1>Our Interactive Classrooms and Business Forum</h1>
   <p>Here we will offer participants with digital skills that will help them work using major technologies to earn a passive income</p>
   <h2>Areas Of Interest</h2>
@@ -216,7 +235,21 @@ For more information or guidance,leave your comments or questions below or Watsa
     <li>Business Impact Of Cloud Computiñg</li>
     <li>Crypto Trading and Mining</li>
     </ol>
-  </aside>
+  </div>
+  <div class="right column">
+  <div class="card">
+  <h2>About Me<h2>
+    <p>Am a Front-End Web Developer,Forex Trader,Writer,Crypto Trader,Affiliate marketer and Blogger.</p>
+    </div>
+    
+    <div class="card">
+    <h3>Popular Post</h3>
+    <div class="fakeimg""><p>image</p></div>
+    </div>
+    <div class="card">
+    <h3>Follow Me</h3>
+    <a href="http://facebook.com/dennis.kamau.54">Facebook</a>
+    </div>
 </body>
 
 </html>
