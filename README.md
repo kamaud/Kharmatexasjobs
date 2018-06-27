@@ -169,8 +169,8 @@ body {
 <p>Cryptocurrencies are mostly associated with the digital world that uses Cryptography,a technique of secret writing and coding to track down sales and digital transfers.</p>
 
 <p>The origin of Cryptography is dated back to the Second world war developed to enhance and secure communication among war veterans. With time,Cryptography techniques has evolved with the improvement and advancement in technology aided by computer and data scientists to provide safe and secure communication paths,storage of data or information and protecting money online.</p>
-</div>
-<div class="card">
+
+
  
 <h4>1. Bitcoin</h4>
 <div class="image"
@@ -187,14 +187,14 @@ style="height:200px;">Image</div>
 
          <h4>November 2017 Bitcoin Prices</h4>
                          
-   </div>                                
+            
 
 
 
 
 
 
-<div class="card">
+
 <h4>2. Ethereum(Ether)</h4>
 
 <p>With bitcoin as the most expensive and popular cryptocurrency trading at over $10,000(US Dollars),Ethereum comes up in tow as the second most expensive and popular cryptocurrency.</p>
@@ -244,12 +244,13 @@ For more information or guidance,leave your comments or questions below or Watsa
     
     <div class="card">
     <h3>Popular Post</h3>
-    <div class="fakeimg""><p>image</p></div>
+    
     </div>
     <div class="card">
     <h3>Follow Me</h3>
     <a href="http://facebook.com/dennis.kamau.54">Facebook</a>
     </div>
+    
 </body>
 
 </html>
