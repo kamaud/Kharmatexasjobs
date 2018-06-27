@@ -213,7 +213,7 @@ style="height:200px;">Image</div>
 For more information or guidance,leave your comments or questions below or Watsapp us on
 +1 267-652-3276
 
-</div>
+
 
     
     
@@ -221,7 +221,7 @@ For more information or guidance,leave your comments or questions below or Watsa
 
 
 
-<div class="card">
+
   <h1>Our Interactive Classrooms and Business Forum</h1>
   <p>Here we will offer participants with digital skills that will help them work using major technologies to earn a passive income</p>
   <h2>Areas Of Interest</h2>
@@ -235,20 +235,22 @@ For more information or guidance,leave your comments or questions below or Watsa
     <li>Business Impact Of Cloud Computiñg</li>
     <li>Crypto Trading and Mining</li>
     </ol>
-  </div>
+   </div>
   <div class="right column">
   <div class="card">
   <h2>About Me<h2>
     <p>Am a Front-End Web Developer,Forex Trader,Writer,Crypto Trader,Affiliate marketer and Blogger.</p>
     </div>
-    
+   
     <div class="card">
+    <footer>
     <h3>Popular Post</h3>
     
-    </div>
+   
     <div class="card">
     <h3>Follow Me</h3>
     <a href="http://facebook.com/dennis.kamau.54">Facebook</a>
+    </footer>
     </div>
     
 </body>
